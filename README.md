@@ -18,3 +18,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 ### https://linkedin-clone-b50af.firebaseapp.com/
+
+## Use Node >= v16.14.2 for development
